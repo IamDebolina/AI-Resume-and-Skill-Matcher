@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
+PyJWT
+bcrypt
+python-multipart
+sentence-transformers
+scikit-learn
+spacy
+pdfplumber
+beautifulsoup4
+requests
+numpy
